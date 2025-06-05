@@ -1,0 +1,3127 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitPackageTests.xctest/Contents/MacOS/SachelGitPackageTests",
+      "packagePath" : "/Users/robertgrayson/playground/sachel_git",
+      "productName" : "SachelGitPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.SachelGit-arm64-apple-macosx15.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/sources",
+      "importPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/App.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Components/SyntaxHighlighter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Config/Theme.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Core/LeaderKey.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Core/Terminal.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Git/FileDiff.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Git/MockRepository.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Git/Repository.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Models/FileStatus.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Models/Hunk.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Views/CommitView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Views/DiffView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Views/HelpView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Views/StatusView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Views/View.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/main.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Modules/Splash.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "SachelGit",
+      "moduleOutputPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Modules/SachelGit.swiftmodule",
+      "objects" : [
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/App.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/SyntaxHighlighter.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Theme.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/LeaderKey.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Terminal.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/FileDiff.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/MockRepository.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Repository.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/FileStatus.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Hunk.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/CommitView.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/DiffView.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/HelpView.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/StatusView.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/View.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/main.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx12.0",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "SachelGit_main",
+        "-swift-version",
+        "5",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "sachel_git"
+      ],
+      "outputFileMapPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/App.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/SyntaxHighlighter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Theme.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/LeaderKey.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Terminal.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/FileDiff.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/MockRepository.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Repository.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/FileStatus.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Hunk.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/CommitView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/DiffView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/HelpView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/StatusView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/View.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/main.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Modules/SachelGit.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/App.swift",
+        "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Components/SyntaxHighlighter.swift",
+        "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Config/Theme.swift",
+        "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Core/LeaderKey.swift",
+        "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Core/Terminal.swift",
+        "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Git/FileDiff.swift",
+        "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Git/MockRepository.swift",
+        "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Git/Repository.swift",
+        "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Models/FileStatus.swift",
+        "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Models/Hunk.swift",
+        "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Views/CommitView.swift",
+        "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Views/DiffView.swift",
+        "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Views/HelpView.swift",
+        "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Views/StatusView.swift",
+        "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Views/View.swift",
+        "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/main.swift"
+      ],
+      "tempsPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.SachelGitPackageTests-arm64-apple-macosx15.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitPackageTests.build/sources",
+      "importPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitPackageTests.derived/runner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Modules/SachelGitTests.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitPackageTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "SachelGitPackageTests",
+      "moduleOutputPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Modules/SachelGitPackageTests.swiftmodule",
+      "objects" : [
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitPackageTests.build/runner.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx12.0",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitPackageTests.build/SachelGitPackageTests-Swift.h",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "sachel_git"
+      ],
+      "outputFileMapPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitPackageTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitPackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Modules/SachelGitPackageTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitPackageTests.derived/runner.swift"
+      ],
+      "tempsPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitPackageTests.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.SachelGitTests-arm64-apple-macosx15.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/sources",
+      "importPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/CommitViewTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/DiffViewTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/GitRepositoryTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/LeaderKeyTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/StatusViewTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/SyntaxHighlighterTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/TerminalTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/sachel"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "SachelGitTests",
+      "moduleOutputPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Modules/SachelGitTests.swiftmodule",
+      "objects" : [
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/CommitViewTests.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/DiffViewTests.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/GitRepositoryTests.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/LeaderKeyTests.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/StatusViewTests.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/SyntaxHighlighterTests.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/TerminalTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-swift-version",
+        "5",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "sachel_git"
+      ],
+      "outputFileMapPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/CommitViewTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/DiffViewTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/GitRepositoryTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/LeaderKeyTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/StatusViewTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/SyntaxHighlighterTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/TerminalTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Modules/SachelGitTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/CommitViewTests.swift",
+        "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/DiffViewTests.swift",
+        "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/GitRepositoryTests.swift",
+        "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/LeaderKeyTests.swift",
+        "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/StatusViewTests.swift",
+        "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/SyntaxHighlighterTests.swift",
+        "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/TerminalTests.swift"
+      ],
+      "tempsPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.Splash-arm64-apple-macosx15.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/sources",
+      "importPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/CharacterSet/CharacterSet+Contains.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Equatable/Equatable+AnyOf.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Int/Int+IsOdd.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Sequence/Sequence+AnyOf.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Sequence/Sequence+Occurrences.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Strings/String+HTMLEntities.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Strings/String+IsNumber.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Strings/String+PrefixChecking.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Strings/String+Removing.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Strings/Substring+HasSuffix.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Grammar/Grammar.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Grammar/SwiftGrammar.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Output/AttributedStringOutputFormat.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Output/HTMLOutputFormat.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Output/MarkdownDecorator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Output/OutputBuilder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Output/OutputFormat.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Syntax/SyntaxHighlighter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Syntax/SyntaxRule.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Theming/Color.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Theming/Font.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Theming/Theme+Defaults.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Theming/Theme.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Tokenizing/Segment.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Tokenizing/TokenType.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Tokenizing/Tokenizer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "Splash",
+      "moduleOutputPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Modules/Splash.swiftmodule",
+      "objects" : [
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/CharacterSet+Contains.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Equatable+AnyOf.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Int+IsOdd.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Sequence+AnyOf.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Sequence+Occurrences.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+HTMLEntities.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+IsNumber.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+PrefixChecking.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+Removing.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Substring+HasSuffix.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Grammar.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/SwiftGrammar.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/AttributedStringOutputFormat.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/HTMLOutputFormat.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/MarkdownDecorator.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/OutputBuilder.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/OutputFormat.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/SyntaxHighlighter.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/SyntaxRule.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Color.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Font.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Theme+Defaults.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Theme.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Segment.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/TokenType.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Tokenizer.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Splash-Swift.h",
+        "-swift-version",
+        "5",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-suppress-warnings"
+      ],
+      "outputFileMapPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/CharacterSet+Contains.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Equatable+AnyOf.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Int+IsOdd.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Sequence+AnyOf.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Sequence+Occurrences.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+HTMLEntities.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+IsNumber.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+PrefixChecking.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+Removing.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Substring+HasSuffix.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Grammar.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/SwiftGrammar.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/AttributedStringOutputFormat.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/HTMLOutputFormat.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/MarkdownDecorator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/OutputBuilder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/OutputFormat.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/SyntaxHighlighter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/SyntaxRule.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Color.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Font.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Theme+Defaults.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Theme.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Segment.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/TokenType.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Tokenizer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Modules/Splash.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/CharacterSet/CharacterSet+Contains.swift",
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Equatable/Equatable+AnyOf.swift",
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Int/Int+IsOdd.swift",
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Sequence/Sequence+AnyOf.swift",
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Sequence/Sequence+Occurrences.swift",
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Strings/String+HTMLEntities.swift",
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Strings/String+IsNumber.swift",
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Strings/String+PrefixChecking.swift",
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Strings/String+Removing.swift",
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Strings/Substring+HasSuffix.swift",
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Grammar/Grammar.swift",
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Grammar/SwiftGrammar.swift",
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Output/AttributedStringOutputFormat.swift",
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Output/HTMLOutputFormat.swift",
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Output/MarkdownDecorator.swift",
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Output/OutputBuilder.swift",
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Output/OutputFormat.swift",
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Syntax/SyntaxHighlighter.swift",
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Syntax/SyntaxRule.swift",
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Theming/Color.swift",
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Theming/Font.swift",
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Theming/Theme+Defaults.swift",
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Theming/Theme.swift",
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Tokenizing/Segment.swift",
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Tokenizing/TokenType.swift",
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Tokenizing/Tokenizer.swift"
+      ],
+      "tempsPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.SplashHTMLGen-arm64-apple-macosx15.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashHTMLGen.build/sources",
+      "importPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashHTMLGen/main.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Modules/Splash.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashHTMLGen.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "SplashHTMLGen",
+      "moduleOutputPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashHTMLGen.build/SplashHTMLGen.swiftmodule",
+      "objects" : [
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashHTMLGen.build/main.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-swift-version",
+        "5",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-suppress-warnings"
+      ],
+      "outputFileMapPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashHTMLGen.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashHTMLGen.build/main.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashHTMLGen.build/SplashHTMLGen.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashHTMLGen/main.swift"
+      ],
+      "tempsPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashHTMLGen.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.SplashImageGen-arm64-apple-macosx15.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/sources",
+      "importPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashImageGen/Extensions/CGImage+WriteToURL.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashImageGen/Extensions/CommandLine+Options.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashImageGen/Extensions/NSGraphicsContext+Fill.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashImageGen/Extensions/NSGraphicsContext+InitWithSize.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashImageGen/main.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Modules/Splash.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "SplashImageGen",
+      "moduleOutputPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/SplashImageGen.swiftmodule",
+      "objects" : [
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/CGImage+WriteToURL.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/CommandLine+Options.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/NSGraphicsContext+Fill.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/NSGraphicsContext+InitWithSize.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/main.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-swift-version",
+        "5",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-suppress-warnings"
+      ],
+      "outputFileMapPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/CGImage+WriteToURL.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/CommandLine+Options.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/NSGraphicsContext+Fill.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/NSGraphicsContext+InitWithSize.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/main.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/SplashImageGen.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashImageGen/Extensions/CGImage+WriteToURL.swift",
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashImageGen/Extensions/CommandLine+Options.swift",
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashImageGen/Extensions/NSGraphicsContext+Fill.swift",
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashImageGen/Extensions/NSGraphicsContext+InitWithSize.swift",
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashImageGen/main.swift"
+      ],
+      "tempsPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.SplashMarkdown-arm64-apple-macosx15.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashMarkdown.build/sources",
+      "importPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashMarkdown/main.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Modules/Splash.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashMarkdown.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "SplashMarkdown",
+      "moduleOutputPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashMarkdown.build/SplashMarkdown.swiftmodule",
+      "objects" : [
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashMarkdown.build/main.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-swift-version",
+        "5",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-suppress-warnings"
+      ],
+      "outputFileMapPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashMarkdown.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashMarkdown.build/main.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashMarkdown.build/SplashMarkdown.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashMarkdown/main.swift"
+      ],
+      "tempsPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashMarkdown.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.SplashTokenizer-arm64-apple-macosx15.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashTokenizer.build/sources",
+      "importPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashTokenizer/TokenizerOutputFormat.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashTokenizer/main.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Modules/Splash.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashTokenizer.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "SplashTokenizer",
+      "moduleOutputPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashTokenizer.build/SplashTokenizer.swiftmodule",
+      "objects" : [
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashTokenizer.build/TokenizerOutputFormat.swift.o",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashTokenizer.build/main.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-swift-version",
+        "5",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-suppress-warnings"
+      ],
+      "outputFileMapPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashTokenizer.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashTokenizer.build/TokenizerOutputFormat.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashTokenizer.build/main.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashTokenizer.build/SplashTokenizer.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashTokenizer/TokenizerOutputFormat.swift",
+        "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashTokenizer/main.swift"
+      ],
+      "tempsPath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashTokenizer.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "SachelGit" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "SachelGit",
+      "-package-name",
+      "sachel_git",
+      "-incremental",
+      "-c",
+      "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/App.swift",
+      "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Components/SyntaxHighlighter.swift",
+      "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Config/Theme.swift",
+      "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Core/LeaderKey.swift",
+      "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Core/Terminal.swift",
+      "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Git/FileDiff.swift",
+      "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Git/MockRepository.swift",
+      "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Git/Repository.swift",
+      "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Models/FileStatus.swift",
+      "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Models/Hunk.swift",
+      "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Views/CommitView.swift",
+      "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Views/DiffView.swift",
+      "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Views/HelpView.swift",
+      "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Views/StatusView.swift",
+      "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Views/View.swift",
+      "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/main.swift",
+      "-I",
+      "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx12.0",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "SachelGit_main",
+      "-swift-version",
+      "5",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "sachel_git",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "SachelGitPackageTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "SachelGitPackageTests",
+      "-package-name",
+      "sachel_git",
+      "-incremental",
+      "-c",
+      "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitPackageTests.derived/runner.swift",
+      "-I",
+      "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx12.0",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitPackageTests.build/SachelGitPackageTests-Swift.h",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "sachel_git",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "SachelGitTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "SachelGitTests",
+      "-package-name",
+      "sachel_git",
+      "-incremental",
+      "-c",
+      "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/CommitViewTests.swift",
+      "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/DiffViewTests.swift",
+      "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/GitRepositoryTests.swift",
+      "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/LeaderKeyTests.swift",
+      "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/StatusViewTests.swift",
+      "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/SyntaxHighlighterTests.swift",
+      "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/TerminalTests.swift",
+      "-I",
+      "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-swift-version",
+      "5",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "sachel_git",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "Splash" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "Splash",
+      "-incremental",
+      "-c",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/CharacterSet/CharacterSet+Contains.swift",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Equatable/Equatable+AnyOf.swift",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Int/Int+IsOdd.swift",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Sequence/Sequence+AnyOf.swift",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Sequence/Sequence+Occurrences.swift",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Strings/String+HTMLEntities.swift",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Strings/String+IsNumber.swift",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Strings/String+PrefixChecking.swift",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Strings/String+Removing.swift",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Strings/Substring+HasSuffix.swift",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Grammar/Grammar.swift",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Grammar/SwiftGrammar.swift",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Output/AttributedStringOutputFormat.swift",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Output/HTMLOutputFormat.swift",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Output/MarkdownDecorator.swift",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Output/OutputBuilder.swift",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Output/OutputFormat.swift",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Syntax/SyntaxHighlighter.swift",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Syntax/SyntaxRule.swift",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Theming/Color.swift",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Theming/Font.swift",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Theming/Theme+Defaults.swift",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Theming/Theme.swift",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Tokenizing/Segment.swift",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Tokenizing/TokenType.swift",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Tokenizing/Tokenizer.swift",
+      "-I",
+      "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Splash-Swift.h",
+      "-swift-version",
+      "5",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-suppress-warnings",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "SplashHTMLGen" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "SplashHTMLGen",
+      "-incremental",
+      "-c",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashHTMLGen/main.swift",
+      "-I",
+      "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-swift-version",
+      "5",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-suppress-warnings",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "SplashImageGen" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "SplashImageGen",
+      "-incremental",
+      "-c",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashImageGen/Extensions/CGImage+WriteToURL.swift",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashImageGen/Extensions/CommandLine+Options.swift",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashImageGen/Extensions/NSGraphicsContext+Fill.swift",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashImageGen/Extensions/NSGraphicsContext+InitWithSize.swift",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashImageGen/main.swift",
+      "-I",
+      "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-swift-version",
+      "5",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-suppress-warnings",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "SplashMarkdown" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "SplashMarkdown",
+      "-incremental",
+      "-c",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashMarkdown/main.swift",
+      "-I",
+      "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-swift-version",
+      "5",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-suppress-warnings",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "SplashTokenizer" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "SplashTokenizer",
+      "-incremental",
+      "-c",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashTokenizer/TokenizerOutputFormat.swift",
+      "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashTokenizer/main.swift",
+      "-I",
+      "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-swift-version",
+      "5",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-suppress-warnings",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "SachelGit" : [
+      "Splash"
+    ],
+    "SachelGitPackageTests" : [
+      "SachelGitTests",
+      "SachelGit",
+      "Splash"
+    ],
+    "SachelGitTests" : [
+      "SachelGit",
+      "Splash"
+    ],
+    "Splash" : [
+
+    ],
+    "SplashHTMLGen" : [
+      "Splash"
+    ],
+    "SplashImageGen" : [
+      "Splash"
+    ],
+    "SplashMarkdown" : [
+      "Splash"
+    ],
+    "SplashTokenizer" : [
+      "Splash"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+    "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitPackageTests.derived/runner.swift" : {
+      "inputs" : [
+
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitPackageTests.derived/runner.swift"
+        }
+      ]
+    }
+  },
+  "traitConfiguration" : {
+    "enableAllTraits" : false
+  },
+  "writeCommands" : {
+    "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/App.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Components/SyntaxHighlighter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Config/Theme.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Core/LeaderKey.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Core/Terminal.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Git/FileDiff.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Git/MockRepository.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Git/Repository.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Models/FileStatus.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Models/Hunk.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Views/CommitView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Views/DiffView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Views/HelpView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Views/StatusView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Views/View.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/main.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/sources"
+    },
+    "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitPackageTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitPackageTests.derived/runner.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitPackageTests.build/sources"
+    },
+    "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitPackageTests.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/App.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/CommitView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/DiffView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/FileDiff.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/FileStatus.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/HelpView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Hunk.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/LeaderKey.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/MockRepository.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Repository.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/StatusView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/SyntaxHighlighter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Terminal.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Theme.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/View.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/main.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitPackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/CommitViewTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/DiffViewTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/GitRepositoryTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/LeaderKeyTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/StatusViewTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/SyntaxHighlighterTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/TerminalTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/AttributedStringOutputFormat.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/CharacterSet+Contains.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Color.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Equatable+AnyOf.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Font.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Grammar.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/HTMLOutputFormat.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Int+IsOdd.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/MarkdownDecorator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/OutputBuilder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/OutputFormat.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Segment.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Sequence+AnyOf.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Sequence+Occurrences.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+HTMLEntities.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+IsNumber.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+PrefixChecking.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+Removing.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Substring+HasSuffix.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/SwiftGrammar.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/SyntaxHighlighter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/SyntaxRule.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Theme+Defaults.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Theme.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/TokenType.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Tokenizer.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitPackageTests.product/Objects.LinkFileList"
+    },
+    "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/CommitViewTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/DiffViewTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/GitRepositoryTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/LeaderKeyTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/StatusViewTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/SyntaxHighlighterTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/TerminalTests.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/sources"
+    },
+    "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/CharacterSet/CharacterSet+Contains.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Equatable/Equatable+AnyOf.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Int/Int+IsOdd.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Sequence/Sequence+AnyOf.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Sequence/Sequence+Occurrences.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Strings/String+HTMLEntities.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Strings/String+IsNumber.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Strings/String+PrefixChecking.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Strings/String+Removing.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Extensions/Strings/Substring+HasSuffix.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Grammar/Grammar.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Grammar/SwiftGrammar.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Output/AttributedStringOutputFormat.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Output/HTMLOutputFormat.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Output/MarkdownDecorator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Output/OutputBuilder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Output/OutputFormat.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Syntax/SyntaxHighlighter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Syntax/SyntaxRule.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Theming/Color.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Theming/Font.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Theming/Theme+Defaults.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Theming/Theme.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Tokenizing/Segment.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Tokenizing/TokenType.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/Splash/Tokenizing/Tokenizer.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/sources"
+    },
+    "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashHTMLGen-entitlement.plist" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<entitlement-plist>"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<com.apple.security.get-task-allow>"
+        }
+      ],
+      "outputFilePath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashHTMLGen-entitlement.plist"
+    },
+    "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashHTMLGen.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashHTMLGen/main.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashHTMLGen.build/sources"
+    },
+    "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashHTMLGen.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/AttributedStringOutputFormat.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/CharacterSet+Contains.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Color.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Equatable+AnyOf.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Font.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Grammar.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/HTMLOutputFormat.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Int+IsOdd.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/MarkdownDecorator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/OutputBuilder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/OutputFormat.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Segment.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Sequence+AnyOf.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Sequence+Occurrences.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+HTMLEntities.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+IsNumber.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+PrefixChecking.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+Removing.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Substring+HasSuffix.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/SwiftGrammar.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/SyntaxHighlighter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/SyntaxRule.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Theme+Defaults.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Theme.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/TokenType.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Tokenizer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashHTMLGen.build/main.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashHTMLGen.product/Objects.LinkFileList"
+    },
+    "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen-entitlement.plist" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<entitlement-plist>"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<com.apple.security.get-task-allow>"
+        }
+      ],
+      "outputFilePath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen-entitlement.plist"
+    },
+    "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashImageGen/Extensions/CGImage+WriteToURL.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashImageGen/Extensions/CommandLine+Options.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashImageGen/Extensions/NSGraphicsContext+Fill.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashImageGen/Extensions/NSGraphicsContext+InitWithSize.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashImageGen/main.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/sources"
+    },
+    "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/AttributedStringOutputFormat.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/CharacterSet+Contains.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Color.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Equatable+AnyOf.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Font.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Grammar.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/HTMLOutputFormat.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Int+IsOdd.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/MarkdownDecorator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/OutputBuilder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/OutputFormat.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Segment.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Sequence+AnyOf.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Sequence+Occurrences.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+HTMLEntities.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+IsNumber.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+PrefixChecking.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+Removing.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Substring+HasSuffix.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/SwiftGrammar.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/SyntaxHighlighter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/SyntaxRule.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Theme+Defaults.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Theme.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/TokenType.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Tokenizer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/CGImage+WriteToURL.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/CommandLine+Options.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/NSGraphicsContext+Fill.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/NSGraphicsContext+InitWithSize.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/main.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.product/Objects.LinkFileList"
+    },
+    "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashMarkdown-entitlement.plist" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<entitlement-plist>"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<com.apple.security.get-task-allow>"
+        }
+      ],
+      "outputFilePath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashMarkdown-entitlement.plist"
+    },
+    "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashMarkdown.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashMarkdown/main.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashMarkdown.build/sources"
+    },
+    "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashMarkdown.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/AttributedStringOutputFormat.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/CharacterSet+Contains.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Color.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Equatable+AnyOf.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Font.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Grammar.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/HTMLOutputFormat.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Int+IsOdd.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/MarkdownDecorator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/OutputBuilder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/OutputFormat.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Segment.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Sequence+AnyOf.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Sequence+Occurrences.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+HTMLEntities.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+IsNumber.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+PrefixChecking.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+Removing.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Substring+HasSuffix.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/SwiftGrammar.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/SyntaxHighlighter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/SyntaxRule.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Theme+Defaults.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Theme.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/TokenType.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Tokenizer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashMarkdown.build/main.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashMarkdown.product/Objects.LinkFileList"
+    },
+    "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashTokenizer-entitlement.plist" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<entitlement-plist>"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<com.apple.security.get-task-allow>"
+        }
+      ],
+      "outputFilePath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashTokenizer-entitlement.plist"
+    },
+    "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashTokenizer.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashTokenizer/TokenizerOutputFormat.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashTokenizer/main.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashTokenizer.build/sources"
+    },
+    "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashTokenizer.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/AttributedStringOutputFormat.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/CharacterSet+Contains.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Color.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Equatable+AnyOf.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Font.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Grammar.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/HTMLOutputFormat.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Int+IsOdd.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/MarkdownDecorator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/OutputBuilder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/OutputFormat.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Segment.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Sequence+AnyOf.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Sequence+Occurrences.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+HTMLEntities.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+IsNumber.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+PrefixChecking.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+Removing.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Substring+HasSuffix.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/SwiftGrammar.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/SyntaxHighlighter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/SyntaxRule.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Theme+Defaults.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Theme.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/TokenType.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Tokenizer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashTokenizer.build/TokenizerOutputFormat.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashTokenizer.build/main.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashTokenizer.product/Objects.LinkFileList"
+    },
+    "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/sachel-entitlement.plist" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<entitlement-plist>"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<com.apple.security.get-task-allow>"
+        }
+      ],
+      "outputFilePath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/sachel-entitlement.plist"
+    },
+    "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/sachel.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/App.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/CommitView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/DiffView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/FileDiff.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/FileStatus.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/HelpView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Hunk.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/LeaderKey.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/MockRepository.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Repository.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/StatusView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/SyntaxHighlighter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Terminal.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Theme.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/View.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/main.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/AttributedStringOutputFormat.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/CharacterSet+Contains.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Color.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Equatable+AnyOf.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Font.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Grammar.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/HTMLOutputFormat.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Int+IsOdd.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/MarkdownDecorator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/OutputBuilder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/OutputFormat.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Segment.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Sequence+AnyOf.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Sequence+Occurrences.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+HTMLEntities.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+IsNumber.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+PrefixChecking.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/String+Removing.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Substring+HasSuffix.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/SwiftGrammar.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/SyntaxHighlighter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/SyntaxRule.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Theme+Defaults.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Theme.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/TokenType.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/Splash.build/Tokenizer.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/sachel.product/Objects.LinkFileList"
+    },
+    "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}

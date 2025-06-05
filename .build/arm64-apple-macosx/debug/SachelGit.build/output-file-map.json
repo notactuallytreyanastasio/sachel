@@ -1,0 +1,101 @@
+{
+  "": {
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/master.swiftdeps"
+  },
+  "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/App.swift": {
+    "dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/App.d",
+    "object": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/App.swift.o",
+    "swiftmodule": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/App~partial.swiftmodule",
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/App.swiftdeps"
+  },
+  "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Components/SyntaxHighlighter.swift": {
+    "dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/SyntaxHighlighter.d",
+    "object": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/SyntaxHighlighter.swift.o",
+    "swiftmodule": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/SyntaxHighlighter~partial.swiftmodule",
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/SyntaxHighlighter.swiftdeps"
+  },
+  "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Config/Theme.swift": {
+    "dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Theme.d",
+    "object": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Theme.swift.o",
+    "swiftmodule": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Theme~partial.swiftmodule",
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Theme.swiftdeps"
+  },
+  "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Core/LeaderKey.swift": {
+    "dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/LeaderKey.d",
+    "object": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/LeaderKey.swift.o",
+    "swiftmodule": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/LeaderKey~partial.swiftmodule",
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/LeaderKey.swiftdeps"
+  },
+  "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Core/Terminal.swift": {
+    "dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Terminal.d",
+    "object": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Terminal.swift.o",
+    "swiftmodule": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Terminal~partial.swiftmodule",
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Terminal.swiftdeps"
+  },
+  "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Git/FileDiff.swift": {
+    "dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/FileDiff.d",
+    "object": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/FileDiff.swift.o",
+    "swiftmodule": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/FileDiff~partial.swiftmodule",
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/FileDiff.swiftdeps"
+  },
+  "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Git/MockRepository.swift": {
+    "dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/MockRepository.d",
+    "object": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/MockRepository.swift.o",
+    "swiftmodule": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/MockRepository~partial.swiftmodule",
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/MockRepository.swiftdeps"
+  },
+  "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Git/Repository.swift": {
+    "dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Repository.d",
+    "object": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Repository.swift.o",
+    "swiftmodule": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Repository~partial.swiftmodule",
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Repository.swiftdeps"
+  },
+  "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Models/FileStatus.swift": {
+    "dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/FileStatus.d",
+    "object": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/FileStatus.swift.o",
+    "swiftmodule": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/FileStatus~partial.swiftmodule",
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/FileStatus.swiftdeps"
+  },
+  "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Models/Hunk.swift": {
+    "dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Hunk.d",
+    "object": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Hunk.swift.o",
+    "swiftmodule": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Hunk~partial.swiftmodule",
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/Hunk.swiftdeps"
+  },
+  "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Views/CommitView.swift": {
+    "dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/CommitView.d",
+    "object": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/CommitView.swift.o",
+    "swiftmodule": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/CommitView~partial.swiftmodule",
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/CommitView.swiftdeps"
+  },
+  "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Views/DiffView.swift": {
+    "dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/DiffView.d",
+    "object": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/DiffView.swift.o",
+    "swiftmodule": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/DiffView~partial.swiftmodule",
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/DiffView.swiftdeps"
+  },
+  "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Views/HelpView.swift": {
+    "dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/HelpView.d",
+    "object": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/HelpView.swift.o",
+    "swiftmodule": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/HelpView~partial.swiftmodule",
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/HelpView.swiftdeps"
+  },
+  "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Views/StatusView.swift": {
+    "dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/StatusView.d",
+    "object": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/StatusView.swift.o",
+    "swiftmodule": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/StatusView~partial.swiftmodule",
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/StatusView.swiftdeps"
+  },
+  "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Views/View.swift": {
+    "dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/View.d",
+    "object": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/View.swift.o",
+    "swiftmodule": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/View~partial.swiftmodule",
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/View.swiftdeps"
+  },
+  "/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/main.swift": {
+    "dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/main.d",
+    "object": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/main.swift.o",
+    "swiftmodule": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGit.build/main.swiftdeps"
+  }
+}

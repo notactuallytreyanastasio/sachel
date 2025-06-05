@@ -272,7 +272,7 @@ class CommitView: BaseView {
     
     private func moveCursorUp() {
         // Simple implementation - move to beginning of previous line
-        let lines = commitMessage.components(separatedBy: .newlines)
+        let _ = commitMessage.components(separatedBy: .newlines)
         // Find current line and move up - simplified for now
         cursorPosition = max(0, cursorPosition - 40) // Approximate line length
     }

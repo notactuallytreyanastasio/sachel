@@ -1,0 +1,47 @@
+{
+  "": {
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/master.swiftdeps"
+  },
+  "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/CommitViewTests.swift": {
+    "dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/CommitViewTests.d",
+    "object": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/CommitViewTests.swift.o",
+    "swiftmodule": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/CommitViewTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/CommitViewTests.swiftdeps"
+  },
+  "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/DiffViewTests.swift": {
+    "dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/DiffViewTests.d",
+    "object": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/DiffViewTests.swift.o",
+    "swiftmodule": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/DiffViewTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/DiffViewTests.swiftdeps"
+  },
+  "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/GitRepositoryTests.swift": {
+    "dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/GitRepositoryTests.d",
+    "object": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/GitRepositoryTests.swift.o",
+    "swiftmodule": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/GitRepositoryTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/GitRepositoryTests.swiftdeps"
+  },
+  "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/LeaderKeyTests.swift": {
+    "dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/LeaderKeyTests.d",
+    "object": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/LeaderKeyTests.swift.o",
+    "swiftmodule": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/LeaderKeyTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/LeaderKeyTests.swiftdeps"
+  },
+  "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/StatusViewTests.swift": {
+    "dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/StatusViewTests.d",
+    "object": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/StatusViewTests.swift.o",
+    "swiftmodule": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/StatusViewTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/StatusViewTests.swiftdeps"
+  },
+  "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/SyntaxHighlighterTests.swift": {
+    "dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/SyntaxHighlighterTests.d",
+    "object": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/SyntaxHighlighterTests.swift.o",
+    "swiftmodule": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/SyntaxHighlighterTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/SyntaxHighlighterTests.swiftdeps"
+  },
+  "/Users/robertgrayson/playground/sachel_git/Tests/SachelGitTests/TerminalTests.swift": {
+    "dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/TerminalTests.d",
+    "object": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/TerminalTests.swift.o",
+    "swiftmodule": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/TerminalTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitTests.build/TerminalTests.swiftdeps"
+  }
+}

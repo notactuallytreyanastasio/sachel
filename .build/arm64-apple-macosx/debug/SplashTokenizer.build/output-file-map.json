@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashTokenizer.build/master.swiftdeps"
+  },
+  "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashTokenizer/TokenizerOutputFormat.swift": {
+    "dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashTokenizer.build/TokenizerOutputFormat.d",
+    "object": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashTokenizer.build/TokenizerOutputFormat.swift.o",
+    "swiftmodule": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashTokenizer.build/TokenizerOutputFormat~partial.swiftmodule",
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashTokenizer.build/TokenizerOutputFormat.swiftdeps"
+  },
+  "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashTokenizer/main.swift": {
+    "dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashTokenizer.build/main.d",
+    "object": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashTokenizer.build/main.swift.o",
+    "swiftmodule": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashTokenizer.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashTokenizer.build/main.swiftdeps"
+  }
+}

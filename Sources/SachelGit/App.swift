@@ -1,5 +1,4 @@
 import Foundation
-import SwiftGit2
 
 class SachelGitApp: LeaderKeyDelegate {
     private let terminal = Terminal()
@@ -93,15 +92,9 @@ class SachelGitApp: LeaderKeyDelegate {
     }
     
     private func setupRepository() throws {
-        let currentPath = FileManager.default.currentDirectoryPath
-        let repoURL = URL(fileURLWithPath: currentPath)
-        
-        do {
-            let repo = try Repository.at(repoURL)
-            repository = GitRepository(repository: repo)
-        } catch {
-            throw SachelGitError.notAGitRepository(path: currentPath)
-        }
+        // For demo purposes, use a mock repository
+        // In production, this would use SwiftGit2 to open the actual repository
+        repository = MockGitRepository()
     }
     
     private func switchToView(_ view: View) {

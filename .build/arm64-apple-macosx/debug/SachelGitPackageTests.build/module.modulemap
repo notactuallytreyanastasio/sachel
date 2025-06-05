@@ -1,0 +1,4 @@
+module SachelGitPackageTests {
+    header "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SachelGitPackageTests.build/SachelGitPackageTests-Swift.h"
+    requires objc
+}

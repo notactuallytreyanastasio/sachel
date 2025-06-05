@@ -4,7 +4,7 @@ struct Theme {
     // Dracula-inspired color scheme as specified in OPUS_INSTRUCTIONS.md
     
     // Primary colors
-    static let background = ANSICode.bgBlack // Dark background
+    static let background = "" // Dark background (default terminal)
     static let foreground = ANSICode.white   // Light foreground
     
     // Git status colors
@@ -29,7 +29,7 @@ struct Theme {
     static let string = ANSICode.green
     static let comment = ANSICode.blue
     static let number = ANSICode.cyan
-    static let operator = ANSICode.yellow
+    static let `operator` = ANSICode.yellow
     static let type = ANSICode.brightBlue
     
     // File type colors

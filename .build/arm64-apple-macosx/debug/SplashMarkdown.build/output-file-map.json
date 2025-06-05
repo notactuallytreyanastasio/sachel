@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashMarkdown.build/master.swiftdeps"
+  },
+  "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashMarkdown/main.swift": {
+    "dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashMarkdown.build/main.d",
+    "object": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashMarkdown.build/main.swift.o",
+    "swiftmodule": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashMarkdown.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashMarkdown.build/main.swiftdeps"
+  }
+}

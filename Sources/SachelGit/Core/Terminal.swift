@@ -29,12 +29,12 @@ enum Key: Equatable {
         case 0x20: return .space
         case 0x7F: return .backspace
         case 0x01...0x1A: 
-            let char = Character(UnicodeScalar(byte + 0x60)!)
+            let scalar = UnicodeScalar(byte + 0x60)
+            let char = Character(scalar)
             return .ctrl(char)
         default:
-            if let scalar = UnicodeScalar(byte) {
-                return .char(Character(scalar))
-            }
+            let scalar = UnicodeScalar(byte)
+            return .char(Character(scalar))
         }
         return nil
     }
@@ -140,7 +140,7 @@ class Terminal {
     }
     
     func disableRawMode() {
-        guard isRawMode, let original = originalTermios else { return }
+        guard isRawMode, var original = originalTermios else { return }
         
         tcsetattr(STDIN_FILENO, TCSAFLUSH, &original)
         isRawMode = false

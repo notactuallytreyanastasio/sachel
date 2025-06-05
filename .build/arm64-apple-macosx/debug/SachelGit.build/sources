@@ -1,0 +1,16 @@
+/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/App.swift
+/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Components/SyntaxHighlighter.swift
+/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Config/Theme.swift
+/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Core/LeaderKey.swift
+/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Core/Terminal.swift
+/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Git/FileDiff.swift
+/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Git/MockRepository.swift
+/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Git/Repository.swift
+/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Models/FileStatus.swift
+/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Models/Hunk.swift
+/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Views/CommitView.swift
+/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Views/DiffView.swift
+/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Views/HelpView.swift
+/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Views/StatusView.swift
+/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/Views/View.swift
+/Users/robertgrayson/playground/sachel_git/Sources/SachelGit/main.swift

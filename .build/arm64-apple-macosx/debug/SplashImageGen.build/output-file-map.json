@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/master.swiftdeps"
+  },
+  "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashImageGen/Extensions/CGImage+WriteToURL.swift": {
+    "dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/CGImage+WriteToURL.d",
+    "object": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/CGImage+WriteToURL.swift.o",
+    "swiftmodule": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/CGImage+WriteToURL~partial.swiftmodule",
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/CGImage+WriteToURL.swiftdeps"
+  },
+  "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashImageGen/Extensions/CommandLine+Options.swift": {
+    "dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/CommandLine+Options.d",
+    "object": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/CommandLine+Options.swift.o",
+    "swiftmodule": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/CommandLine+Options~partial.swiftmodule",
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/CommandLine+Options.swiftdeps"
+  },
+  "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashImageGen/Extensions/NSGraphicsContext+Fill.swift": {
+    "dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/NSGraphicsContext+Fill.d",
+    "object": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/NSGraphicsContext+Fill.swift.o",
+    "swiftmodule": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/NSGraphicsContext+Fill~partial.swiftmodule",
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/NSGraphicsContext+Fill.swiftdeps"
+  },
+  "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashImageGen/Extensions/NSGraphicsContext+InitWithSize.swift": {
+    "dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/NSGraphicsContext+InitWithSize.d",
+    "object": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/NSGraphicsContext+InitWithSize.swift.o",
+    "swiftmodule": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/NSGraphicsContext+InitWithSize~partial.swiftmodule",
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/NSGraphicsContext+InitWithSize.swiftdeps"
+  },
+  "/Users/robertgrayson/playground/sachel_git/.build/checkouts/Splash/Sources/SplashImageGen/main.swift": {
+    "dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/main.d",
+    "object": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/main.swift.o",
+    "swiftmodule": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/robertgrayson/playground/sachel_git/.build/arm64-apple-macosx/debug/SplashImageGen.build/main.swiftdeps"
+  }
+}
