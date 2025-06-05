@@ -638,3 +638,11 @@ And I got quite a lot as a result! (expand, its like 500 lines)
 
 ## What we got
 This is quite a bit to digest, but let's go over it in parts.
+Its essentially laid out 4 interfaces for us, right along the lines of what we began with as an ask.
+This sounds great.
+If we dig a little deeper, we can see that theres even coverage for testing things, it expanded the keyboard navigation system intuitively (I have ideas for changes but its a start) and laid all the UI out.
+This is pretty solid, but at this point I'm really interested in _how_ and why claude made this.
+
+So let's examine that.
+
+## Getting Claude to Introspect
