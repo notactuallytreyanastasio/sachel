@@ -10,7 +10,7 @@ let package = Package(
         .executable(name: "sachel", targets: ["SachelGit"])
     ],
     dependencies: [
-        .package(url: "https://github.com/SwiftGit2/SwiftGit2.git", from: "0.10.0"),
+        .package(url: "https://github.com/SwiftGit2/SwiftGit2.git", from: "0.6.0"),
         .package(url: "https://github.com/JohnSundell/Splash", from: "0.16.0")
     ],
     targets: [
