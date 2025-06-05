@@ -36,13 +36,13 @@ struct FileStatus: Equatable {
     }
     
     var statusColor: String {
-        if conflicted { return ANSICode.brightRed }
-        if deleted { return ANSICode.red }
-        if renamed { return ANSICode.yellow }
-        if staged { return ANSICode.green }
-        if modified { return ANSICode.yellow }
-        if untracked { return ANSICode.cyan }
-        return ANSICode.white
+        if conflicted { return Theme.conflicts }
+        if deleted { return Theme.removedLines }
+        if renamed { return Theme.modifiedHunks }
+        if staged { return Theme.stagedItems }
+        if modified { return Theme.modifiedHunks }
+        if untracked { return Theme.info }
+        return Theme.foreground
     }
     
     var displayName: String {

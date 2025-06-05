@@ -90,7 +90,7 @@ class StatusView: BaseView {
         // Render staged files
         if !stagedFiles.isEmpty {
             terminal.moveCursor(row: currentRow, col: 1)
-            terminal.write(ANSICode.green + "Staged Changes:" + ANSICode.reset)
+            terminal.write(Theme.stagedItems + "Staged Changes:" + ANSICode.reset)
             currentRow += 1
             
             for (index, file) in stagedFiles.enumerated() {
@@ -109,7 +109,7 @@ class StatusView: BaseView {
         if !unstagedFiles.isEmpty {
             if currentRow < startRow + maxRows {
                 terminal.moveCursor(row: currentRow, col: 1)
-                terminal.write(ANSICode.yellow + "Unstaged Changes:" + ANSICode.reset)
+                terminal.write(Theme.modifiedHunks + "Unstaged Changes:" + ANSICode.reset)
                 currentRow += 1
                 
                 for (index, file) in unstagedFiles.enumerated() {
@@ -132,7 +132,7 @@ class StatusView: BaseView {
         let color = file.statusColor
         let resetColor = ANSICode.reset
         
-        let background = isSelected ? ANSICode.bgBlue : ""
+        let background = isSelected ? Theme.selected : ""
         let endBackground = isSelected ? ANSICode.reset : ""
         
         terminal.write("\(background)\(prefix)\(color)\(status)\(resetColor) \(file.displayName)\(endBackground)")

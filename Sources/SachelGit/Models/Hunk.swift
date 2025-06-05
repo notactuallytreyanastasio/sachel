@@ -23,9 +23,9 @@ struct DiffLine: Equatable {
     
     var color: String {
         switch type {
-        case .context: return ANSICode.white
-        case .addition: return ANSICode.green
-        case .deletion: return ANSICode.red
+        case .context: return Theme.foreground
+        case .addition: return Theme.addedLines
+        case .deletion: return Theme.removedLines
         }
     }
 }
