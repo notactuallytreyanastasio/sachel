@@ -24,7 +24,7 @@ So, first I wrote out some instructions:
 [skip](#looking-at-the-base)
 
 ---
-
+<details>
 # Sachel Git
 
 A simple tool to do git things.
@@ -43,6 +43,7 @@ should open a git status view
 
 I will provide a UI screenshot
 
+</details>
 ---
 
 ## Looking at the base
@@ -56,11 +57,12 @@ So I prompted it:
 > Can you flesh out the vision of the MVP of this product and also output specifications and instructions that will ultimately be fed to sonnet 4 to implement for you in Swift
 > [...]
 
-And I got quite a lot as a result!
+And I got quite a lot as a result! (expand, its like 500 lines)
 
-[skip](#what-we-got)
 ---
+
 <details>
+
 # Sachel Git - Swift MVP Specification & Vision
 
 ## Product Vision
