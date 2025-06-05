@@ -21,9 +21,8 @@ I didn't really care what I built it in, so I figured why not mess with Claude t
 
 So, first I wrote out some instructions:
 
-[skip](#looking-at-the-base)
-
 ---
+
 <details>
 <summary>Original Doc</summary>
 # Sachel Git
@@ -45,6 +44,7 @@ should open a git status view
 I will provide a UI screenshot
 
 </details>
+
 ---
 
 ## Looking at the base
