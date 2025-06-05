@@ -60,7 +60,7 @@ And I got quite a lot as a result!
 
 [skip](#what-we-got)
 ---
-<detail>
+<details>
 # Sachel Git - Swift MVP Specification & Vision
 
 ## Product Vision
@@ -628,7 +628,7 @@ And I got quite a lot as a result!
     - Multi-repository workspace support
     - Plugin system using Swift dynamic libraries
     - Integration with native macOS features (Touch Bar, Quick Look)
-</detail>
+</details>
 
 ---
 
