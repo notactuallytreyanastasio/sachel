@@ -25,6 +25,7 @@ So, first I wrote out some instructions:
 
 ---
 <details>
+<summary>Original Doc</summary>
 # Sachel Git
 
 A simple tool to do git things.
@@ -62,6 +63,7 @@ And I got quite a lot as a result! (expand, its like 500 lines)
 ---
 
 <details>
+<summary>Original Doc</summary>
 
 # Sachel Git - Swift MVP Specification & Vision
 
