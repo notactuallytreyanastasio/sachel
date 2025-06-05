@@ -63,7 +63,7 @@ And I got quite a lot as a result! (expand, its like 500 lines)
 ---
 
 <details>
-<summary>Original Doc</summary>
+<summary>Full Specification</summary>
 
 # Sachel Git - Swift MVP Specification & Vision
 
