@@ -646,3 +646,10 @@ This is pretty solid, but at this point I'm really interested in _how_ and why c
 So let's examine that.
 
 ## Getting Claude to Introspect
+
+I start with a prompt, like usual, in the session that had been building all of this.
+
+> So, with the work we have done so far, I want you to take it and explain to me how you approached each bit of it.
+> There was a logical path to how you built out each feature, and I'd like you to map that out and explain every
+> single bit of it. I know you think mostly in markdown so feel free to output a document called
+> CLAUDE_DESIGN_APPROACH_AND_THOUGHTS.md and put it in there.
