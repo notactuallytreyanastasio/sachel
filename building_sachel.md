@@ -665,6 +665,7 @@ Let's see what we've got.
 
 <details>
 <summary>Claude's Design Thoughts</summary>
+
 # Claude's Design Approach & Engineering Thoughts
 
 ## Overview
