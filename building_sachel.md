@@ -663,7 +663,10 @@ Here is that document in full.
 You can read it if you want, but I think we can just...talk about parts of it or whatever.
 Let's see what we've got.
 
+---
+
 <details>
+
 <summary>Claude's Design Thoughts</summary>
 
 # Claude's Design Approach & Engineering Thoughts
@@ -1245,7 +1248,8 @@ This got pretty interesting.
 
 <details>
   <summary>Claude on work, approach, and problem solving</summary>
-  # The Theory of Work: How AI Approaches Complex Problem Solving
+
+# The Theory of Work: How AI Approaches Complex Problem Solving
 
 ## Preface: What This Analysis Explores
 
